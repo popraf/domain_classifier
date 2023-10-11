@@ -8,4 +8,4 @@ In notebook `2_Classification.ipynb` the data has been classified using suggeste
 
 By doing so, and disregarding balancing the train dataset with SMOTE/SMOTETomek, XGBoost (w/o hyperparameter tuning) achieved 76% F1 Score, 76% Balanced Accuracy, 87% ROC AUC on a validation set (the set is not highly representative, it contains 200 samples from each group). The results are available in `4_XGB_DropScaleWeights.ipynb`.
 
-After hyperparameters tuning, the algorithm performace increased to 80% F1 Scord, 80% Balanced Accuracy, and 90% ROC AUC.
+After hyperparameters tuning, the algorithm performace increased to 80% F1 Score, 80% Balanced Accuracy, and 90% ROC AUC.
