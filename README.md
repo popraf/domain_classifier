@@ -1,4 +1,5 @@
 # Domain classifier task
+Task: Classify malicious domains.
 
 The notebook `1_EDA_FeatureSelection.ipynb` contain data cleaning code and a simple exploratory data analysis.
 
